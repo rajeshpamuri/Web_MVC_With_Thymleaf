@@ -14,7 +14,7 @@
 	<name>06_web-Mvc_Thymleaf-validation-app</name>
 	<description>employee application with h2 database</description>
 	<properties>
-		<java.version>18</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
