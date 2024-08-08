@@ -50,9 +50,16 @@ public class ProductController {
 		return "index";
 	}
 
+
 public void m2(){
 int a =10;
 int b=20;
+
+Public void m1(){
+  int age =25;
+  String name="Rajesh";
+//logic  commpleted
+
 }
 	
 }
