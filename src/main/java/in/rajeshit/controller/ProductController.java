@@ -49,10 +49,5 @@ public class ProductController {
 		}
 		return "index";
 	}
-
-public void m2(){
-int a =10;
-int b=20;
-}
 	
 }
